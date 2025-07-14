@@ -1867,7 +1867,7 @@
         "Settings.CursorSettings.SliderMultiplier.Description": "UIX 슬라이드바 같은 대상을 가리킬때의 커서를 <color=hero.yellow>기본 커서 크기</color>를 기준으로 계산하여 표현합니다.",
 
         "Settings.CursorSettings.DirectCursorEnabled": "직접 커서 활성화",
-        "Settings.CursorSettings.DirectCursorEnabled.Description": "커서의 실제 위치를 그대로 표시합니다.\n\n보정이나 부드러움 효과가 적용되지 않은 마우스의 정확한 위치를 보여줍니다. VR에서 물리적 마우스 사용 시 정밀한 조작이 필요할 때 유용합니다.",
+        "Settings.CursorSettings.DirectCursorEnabled.Description": "커서의 실제 위치를 그대로 표시합니다.\n\n시스템이나 설정값에 따른 보정이나 부드러움 효과가 적용되지 않은 커서의 정확한 위치를 보여줍니다.",
 
         "Settings.DesktopViewSettings.FollowCursor": "커서 따라가기",
         "Settings.DesktopViewSettings.FollowCursor.Description": "활성화되면 <color=hero.yellow>대시 메뉴/데스크탑</color>에서 마우스 커서가 지시선을 따라가게 됩니다. 이 설정은 VR 상태에서 물리적 키보드와 마우스를 사용하는 경우 유용합니다.",
