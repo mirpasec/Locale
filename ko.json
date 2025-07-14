@@ -2905,7 +2905,7 @@
 
         "UI.ColorPicker.Hexadecimal": "16진수",
         "UI.ColorPicker.ColorSwatches": "견본",
-        "UI.ColorPicker.Blackbody": "흑체",
+        "UI.ColorPicker.Blackbody": "흑체복사",
 
         "UI.ColorPicker.Red": "적",
         "UI.ColorPicker.Green": "녹",
